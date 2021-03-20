@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Aluno
+comment1.params=
+comment1.target=void\ lerDados()
+comment1.text=public\ Aluno(Curso\ curso){\n\ \ \ \ \ \ \ \ this.curso\ \=\ curso;\n}
+comment2.params=
+comment2.target=void\ mostraDados()
+numComments=3

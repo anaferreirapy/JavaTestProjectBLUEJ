@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Comando
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ executar()
+comment3.params=
+comment3.target=void\ comandoDecisao()
+comment4.params=
+comment4.target=void\ comandoRepeticao()
+comment5.params=
+comment5.target=void\ comandoProtecao()
+numComments=6

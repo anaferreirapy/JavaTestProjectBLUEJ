@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Movimento
+comment1.params=
+comment1.target=Movimento()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ movimentar()
+comment5.params=
+comment5.target=void\ run()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
